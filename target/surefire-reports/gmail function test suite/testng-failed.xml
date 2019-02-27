@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [gmail function test suite]" parallel="methods" data-provider-thread-count="3">
+  <test thread-count="5" verbose="0" name="GmailTest(failed)" parallel="methods">
+    <classes>
+      <class name="com.epam.TA.Test.GmailCanceledDeleteTest">
+        <methods>
+          <include name="configSuite"/>
+          <include name="verifyDeleteCanceledMsgTest" invocation-numbers="0"/>
+          <include name="verifyDeleteTrashMsgTest" invocation-numbers="0 1"/>
+          <include name="closeAll"/>
+        </methods>
+      </class> <!-- com.epam.TA.Test.GmailCanceledDeleteTest -->
+    </classes>
+  </test> <!-- GmailTest(failed) -->
+</suite> <!-- Failed suite [gmail function test suite] -->

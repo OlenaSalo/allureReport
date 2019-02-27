@@ -1,0 +1,26 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 65.832 sec <<< FAILURE! - in TestSuite
+verifyDeleteTrashMsgTest(com.epam.TA.Test.GmailCanceledDeleteTest)  Time elapsed: 47.543 sec  <<< FAILURE!
+java.lang.AssertionError: expected [] but found [16]
+	at com.epam.TA.Test.GmailCanceledDeleteTest.verifyDeleteTrashMsgTest(GmailCanceledDeleteTest.java:52)
+
+verifyDeleteCanceledMsgTest(com.epam.TA.Test.GmailCanceledDeleteTest)  Time elapsed: 56.63 sec  <<< FAILURE!
+org.openqa.selenium.StaleElementReferenceException: 
+stale element reference: element is not attached to the page document
+  (Session info: chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.8.1', revision: '6e95a6684b', time: '2017-12-01T18:33:54.468Z'
+System info: host: 'DESKTOP-QPAOO8E', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\User\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:59465}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.119, webStorageEnabled: true}
+Session ID: 70b7e5059d9074474ec9a39ca53a0f77
+	at com.epam.TA.Test.GmailCanceledDeleteTest.verifyDeleteCanceledMsgTest(GmailCanceledDeleteTest.java:37)
+
+verifyDeleteTrashMsgTest(com.epam.TA.Test.GmailCanceledDeleteTest)  Time elapsed: 60.573 sec  <<< FAILURE!
+java.lang.AssertionError: expected [] but found [50]
+	at com.epam.TA.Test.GmailCanceledDeleteTest.verifyDeleteTrashMsgTest(GmailCanceledDeleteTest.java:52)
+

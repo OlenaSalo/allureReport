@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="3" ignored="0" total="4" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="gmail function test suite" duration-ms="61974" started-at="2019-02-27T12:04:08 EET" finished-at="2019-02-27T12:05:10 EET">
+    <groups>
+    </groups>
+    <test name="GmailTest" duration-ms="61974" started-at="2019-02-27T12:04:08 EET" finished-at="2019-02-27T12:05:10 EET">
+      <class name="com.epam.TA.Test.GmailCanceledDeleteTest">
+        <test-method status="PASS" signature="configSuite()[pri:0, instance:com.epam.TA.Test.GmailCanceledDeleteTest@4defd42]" name="configSuite" is-config="true" duration-ms="62" started-at="2019-02-27T12:04:08 EET" finished-at="2019-02-27T12:04:08 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configSuite -->
+        <test-method status="PASS" signature="verifyDeleteCanceledMsgTest(com.epam.TA.unit.User)[pri:0, instance:com.epam.TA.Test.GmailCanceledDeleteTest@4defd42]" name="verifyDeleteCanceledMsgTest" duration-ms="49704" started-at="2019-02-27T12:04:08 EET" data-provider="getUser" finished-at="2019-02-27T12:04:58 EET">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.epam.TA.unit.User@6b101656]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDeleteCanceledMsgTest -->
+        <test-method status="FAIL" signature="verifyDeleteTrashMsgTest(com.epam.TA.unit.User)[pri:0, instance:com.epam.TA.Test.GmailCanceledDeleteTest@4defd42]" name="verifyDeleteTrashMsgTest" duration-ms="60631" started-at="2019-02-27T12:04:08 EET" data-provider="getUser" finished-at="2019-02-27T12:05:09 EET">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.epam.TA.unit.User@49ac5eb4]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [] but found [50]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [] but found [50]
+at org.testng.Assert.fail(Assert.java:97)
+at org.testng.Assert.assertEqualsImpl(Assert.java:136)
+at org.testng.Assert.assertEquals(Assert.java:118)
+at org.testng.Assert.assertEquals(Assert.java:575)
+at org.testng.Assert.assertEquals(Assert.java:585)
+at com.epam.TA.Test.GmailCanceledDeleteTest.verifyDeleteTrashMsgTest(GmailCanceledDeleteTest.java:52)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:131)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:570)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:170)
+at org.testng.internal.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:77)
+at org.testng.internal.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:15)
+at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+at java.lang.Thread.run(Thread.java:748)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDeleteTrashMsgTest -->
+        <test-method status="FAIL" signature="verifyDeleteTrashMsgTest(com.epam.TA.unit.User)[pri:0, instance:com.epam.TA.Test.GmailCanceledDeleteTest@4defd42]" name="verifyDeleteTrashMsgTest" duration-ms="44534" started-at="2019-02-27T12:04:08 EET" data-provider="getUser" finished-at="2019-02-27T12:04:53 EET">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.epam.TA.unit.User@2a53c5e0]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [] but found [16]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [] but found [16]
+at org.testng.Assert.fail(Assert.java:97)
+at org.testng.Assert.assertEqualsImpl(Assert.java:136)
+at org.testng.Assert.assertEquals(Assert.java:118)
+at org.testng.Assert.assertEquals(Assert.java:575)
+at org.testng.Assert.assertEquals(Assert.java:585)
+at com.epam.TA.Test.GmailCanceledDeleteTest.verifyDeleteTrashMsgTest(GmailCanceledDeleteTest.java:52)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:131)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:570)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:170)
+at org.testng.internal.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:77)
+at org.testng.internal.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:15)
+at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+at java.lang.Thread.run(Thread.java:748)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDeleteTrashMsgTest -->
+        <test-method status="FAIL" signature="verifyDeleteCanceledMsgTest(com.epam.TA.unit.User)[pri:0, instance:com.epam.TA.Test.GmailCanceledDeleteTest@4defd42]" name="verifyDeleteCanceledMsgTest" duration-ms="56088" started-at="2019-02-27T12:04:08 EET" data-provider="getUser" finished-at="2019-02-27T12:05:04 EET">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.epam.TA.unit.User@3a2a0805]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.StaleElementReferenceException">
+            <message>
+              <![CDATA[stale element reference: element is not attached to the page document
+  (Session info: chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.8.1', revision: '6e95a6684b', time: '2017-12-01T18:33:54.468Z'
+System info: host: 'DESKTOP-QPAOO8E', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\User\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:59465}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.119, webStorageEnabled: true}
+Session ID: 70b7e5059d9074474ec9a39ca53a0f77]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.8.1', revision: '6e95a6684b', time: '2017-12-01T18:33:54.468Z'
+System info: host: 'DESKTOP-QPAOO8E', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\User\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:59465}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.119, webStorageEnabled: true}
+Session ID: 70b7e5059d9074474ec9a39ca53a0f77
+at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
+at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
+at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
+at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)
+at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:164)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:601)
+at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:279)
+at org.openqa.selenium.remote.RemoteWebElement.isSelected(RemoteWebElement.java:140)
+at com.epam.TA.componet.CheckBox.isChecked(CheckBox.java:18)
+at com.epam.TA.componet.CheckBox.setChecked(CheckBox.java:13)
+at com.epam.TA.businessObj.GmailDeleteCanceled.lambda$selectMsg$0(GmailDeleteCanceled.java:26)
+at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:184)
+at java.util.stream.SliceOps$1$1.accept(SliceOps.java:204)
+at java.util.ArrayList$ArrayListSpliterator.tryAdvance(ArrayList.java:1359)
+at java.util.stream.ReferencePipeline.forEachWithCancel(ReferencePipeline.java:126)
+at java.util.stream.AbstractPipeline.copyIntoWithCancel(AbstractPipeline.java:498)
+at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:485)
+at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:471)
+at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:151)
+at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:174)
+at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:418)
+at com.epam.TA.businessObj.GmailDeleteCanceled.selectMsg_aroundBody0(GmailDeleteCanceled.java:26)
+at com.epam.TA.businessObj.GmailDeleteCanceled$AjcClosure1.run(GmailDeleteCanceled.java:1)
+at org.aspectj.runtime.reflect.JoinPointImpl.proceed(JoinPointImpl.java:149)
+at io.qameta.allure.aspects.StepsAspects.step(StepsAspects.java:46)
+at com.epam.TA.businessObj.GmailDeleteCanceled.selectMsg(GmailDeleteCanceled.java:19)
+at com.epam.TA.Test.GmailCanceledDeleteTest.verifyDeleteCanceledMsgTest(GmailCanceledDeleteTest.java:37)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:131)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:570)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:170)
+at org.testng.internal.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:77)
+at org.testng.internal.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:15)
+at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+at java.lang.Thread.run(Thread.java:748)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.StaleElementReferenceException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDeleteCanceledMsgTest -->
+        <test-method status="PASS" signature="closeAll()[pri:0, instance:com.epam.TA.Test.GmailCanceledDeleteTest@4defd42]" name="closeAll" is-config="true" duration-ms="5194" started-at="2019-02-27T12:04:56 EET" finished-at="2019-02-27T12:05:01 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeAll -->
+        <test-method status="PASS" signature="closeAll()[pri:0, instance:com.epam.TA.Test.GmailCanceledDeleteTest@4defd42]" name="closeAll" is-config="true" duration-ms="7794" started-at="2019-02-27T12:04:59 EET" finished-at="2019-02-27T12:05:07 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeAll -->
+        <test-method status="PASS" signature="closeAll()[pri:0, instance:com.epam.TA.Test.GmailCanceledDeleteTest@4defd42]" name="closeAll" is-config="true" duration-ms="5020" started-at="2019-02-27T12:05:05 EET" finished-at="2019-02-27T12:05:10 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeAll -->
+        <test-method status="PASS" signature="closeAll()[pri:0, instance:com.epam.TA.Test.GmailCanceledDeleteTest@4defd42]" name="closeAll" is-config="true" duration-ms="1025" started-at="2019-02-27T12:05:09 EET" finished-at="2019-02-27T12:05:10 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeAll -->
+      </class> <!-- com.epam.TA.Test.GmailCanceledDeleteTest -->
+    </test> <!-- GmailTest -->
+  </suite> <!-- gmail function test suite -->
+</testng-results>

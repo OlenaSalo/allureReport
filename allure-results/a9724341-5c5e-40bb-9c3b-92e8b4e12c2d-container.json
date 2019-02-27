@@ -1,0 +1,1 @@
+{"uuid":"a9724341-5c5e-40bb-9c3b-92e8b4e12c2d","name":"com.epam.TA.Test.GmailCanceledDeleteTest.closeAll","description":"","start":1551261899276,"stop":1551261907070,"children":["e837e1da-736e-42c8-b29e-c358e1b491f4"],"afters":[{"name":"closeAll","status":"passed","stage":"finished","description":"","start":1551261899276,"stop":1551261907070}]}

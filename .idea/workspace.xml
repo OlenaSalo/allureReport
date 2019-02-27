@@ -1,0 +1,911 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5b00ac2f-4e82-45d5-8f5e-464bfd282672" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="39" selection-start-line="39" selection-end-line="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/TA/businessObj/GmailDeleteCanceled.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="43">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/TA/Test/GmailCanceledDeleteTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="58" column="5" lean-forward="true" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#2042#2043#0" expanded="true" />
+                <element signature="e#2104#2105#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/TA/businessObj/GmailTrash.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/TA/pages/GmailHomePage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="83">
+              <caret line="39" column="24" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/TA/pages/GmailPageObject.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/java/com/epam/TA/Decorator/Button.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/epam/TA/Decorator/TextArea.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/epam/TA/Decorator/TextInput.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/epam/TA/Decorator/Label.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/epam/TA/Decorator/WrapperFactory.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/epam/TA/Decorator/LocatingCustomElementListHandler.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/epam/TA/Decorator/Element.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/epam/TA/Decorator/CustomFieldDecorator.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/epam/TA/Decorator/Componet/Button.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/epam/TA/Decorator/Componet/TextInput.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/epam/TA/Decorator/Componet/Label.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/epam/TA/Decorator/Componet/CheckBox.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/epam/TA/Pages/GmailPageObject.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/TA/Decorator/Element.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/TA/Decorator/CustomFieldDecorator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/TA/Decorator/LocatingCustomElementListHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/TA/Pages/GmailBusinessObject.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/TA/BusinessObj/GmailBusinessObject.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/TA/Componet/Button.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/TA/Componet/TextInput.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/TA/Componet/Input.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/TA/Pages/GmailPageObject.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/TA/parser/jsonParser.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/epam/TA/Test/BaseTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/TA/parser/JsonParser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/TA/parser/ParserJson.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/log4j2.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/TA/BusinessObj/GmailDeleteCanceled.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/TA/unit/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/TA/BusinessObj/GmailLoginPageBo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/TA/decorator/LocatingCustomElementListHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/gmailTestSuit.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/TA/unit/JsonObject.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/TA/pages/GmailBasePage.java" />
+        <option value="$PROJECT_DIR$/debug.log" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/TA/componet/Alert.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/TA/componet/TextInput.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/TA/decorator/Element.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/TA/decorator/CustomFieldDecorator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/TA/componet/Button.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/TA/componet/CheckBox.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/TA/pages/GmailPageObject.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/TA/DriverManager.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/user.json" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/TA/reporter/TestListener.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/TA/businessObj/GmailLoginPageBo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/TA/businessObj/GmailDeleteCanceled.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/TA/businessObj/GmailTrash.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/epam/TA/Test/GmailCanceledDeleteTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/TA/pages/GmailHomePage.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1015" />
+    <option name="y" value="10" />
+    <option name="width" value="955" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MavenProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MavenProject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MavenProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MavenProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MavenProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MavenProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MavenProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MavenProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MavenProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MavenProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="TA" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MavenProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MavenProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="TA" type="462c0819:PsiDirectoryNode" />
+              <item name="businessObj" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MavenProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MavenProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="TA" type="462c0819:PsiDirectoryNode" />
+              <item name="componet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MavenProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MavenProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="TA" type="462c0819:PsiDirectoryNode" />
+              <item name="componet" type="462c0819:PsiDirectoryNode" />
+              <item name="CheckBox" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="MavenProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MavenProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="TA" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MavenProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MavenProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="TA" type="462c0819:PsiDirectoryNode" />
+              <item name="reporter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MavenProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MavenProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MavenProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MavenProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MavenProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MavenProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MavenProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MavenProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MavenProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MavenProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MavenProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MavenProject" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551261925966" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\MavenProject\src\test\resources" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.epam.TA" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\WebDriverProject\src\test" />
+      <recent name="C:\Users\User\IdeaProjects\WebDriverProject\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.epam.TA.businessObj" />
+      <recent name="com.epam.TA.reporter" />
+      <recent name="com.epam.TA.pages" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.epam.TA.Decorator" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.GmailCanceledDeleteTest.verifyDeleteTrashMsgTest">
+    <configuration name="C:/Users/User/IdeaProjects/MavenProject/src/main/java/gmailTestSuit.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="WebDriverProject" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/main/java/gmailTestSuit.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmailCanceledDeleteTest.simplePageObjectTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="WebDriverProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.TA.Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.epam.TA.Test" />
+      <option name="MAIN_CLASS_NAME" value="com.epam.TA.Test.GmailCanceledDeleteTest" />
+      <option name="METHOD_NAME" value="simplePageObjectTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmailCanceledDeleteTest.verifyDeleteCanceledMsgTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="WebDriverProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.TA.Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.epam.TA.Test" />
+      <option name="MAIN_CLASS_NAME" value="com.epam.TA.Test.GmailCanceledDeleteTest" />
+      <option name="METHOD_NAME" value="verifyDeleteCanceledMsgTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmailCanceledDeleteTest.verifyDeleteTrashMsgTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="WebDriverProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.TA.Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.epam.TA.Test" />
+      <option name="MAIN_CLASS_NAME" value="com.epam.TA.Test.GmailCanceledDeleteTest" />
+      <option name="METHOD_NAME" value="verifyDeleteTrashMsgTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest.simpleLoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="WebDriverProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.TA.businessObj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.epam.TA" />
+      <option name="MAIN_CLASS_NAME" value="com.epam.TA.Test.MainTest" />
+      <option name="METHOD_NAME" value="simpleLoginTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.GmailCanceledDeleteTest.verifyDeleteTrashMsgTest" />
+        <item itemvalue="TestNG.C:/Users/User/IdeaProjects/MavenProject/src/main/java/gmailTestSuit.xml" />
+        <item itemvalue="TestNG.GmailCanceledDeleteTest.verifyDeleteCanceledMsgTest" />
+        <item itemvalue="TestNG.GmailCanceledDeleteTest.simplePageObjectTest" />
+        <item itemvalue="TestNG.MainTest.simpleLoginTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b00ac2f-4e82-45d5-8f5e-464bfd282672" name="Default Changelist" comment="" />
+      <created>1549709562189</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549709562189</updated>
+      <workItem from="1549709564953" duration="7724000" />
+      <workItem from="1549825897872" duration="4324000" />
+      <workItem from="1549860080061" duration="20548000" />
+      <workItem from="1549897050621" duration="6028000" />
+      <workItem from="1549956650785" duration="3253000" />
+      <workItem from="1549999804086" duration="3586000" />
+      <workItem from="1550032281498" duration="18363000" />
+      <workItem from="1550119624029" duration="18080000" />
+      <workItem from="1550204614426" duration="19471000" />
+      <workItem from="1550317376221" duration="34000" />
+      <workItem from="1550317570723" duration="7804000" />
+      <workItem from="1550381496283" duration="9775000" />
+      <workItem from="1550410054714" duration="324000" />
+      <workItem from="1550436898669" duration="4035000" />
+      <workItem from="1550464154513" duration="6633000" />
+      <workItem from="1550482865769" duration="612000" />
+      <workItem from="1551083475380" duration="823000" />
+      <workItem from="1551089526559" duration="606000" />
+      <workItem from="1551106216523" duration="360000" />
+      <workItem from="1551165335394" duration="4106000" />
+      <workItem from="1551181658761" duration="8056000" />
+      <workItem from="1551243928374" duration="7006000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="GmailCanceledDeleteTest_verifyDeleteTrashMsgTest - 2019.02.27 at 11h 21m 10s.xml">
+      <configuration name="GmailCanceledDeleteTest.verifyDeleteTrashMsgTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="GmailCanceledDeleteTest_verifyDeleteTrashMsgTest - 2019.02.27 at 11h 27m 06s.xml">
+      <configuration name="GmailCanceledDeleteTest.verifyDeleteTrashMsgTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="GmailCanceledDeleteTest_verifyDeleteTrashMsgTest - 2019.02.27 at 11h 28m 48s.xml">
+      <configuration name="GmailCanceledDeleteTest.verifyDeleteTrashMsgTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="GmailCanceledDeleteTest_verifyDeleteTrashMsgTest - 2019.02.27 at 11h 30m 51s.xml">
+      <configuration name="GmailCanceledDeleteTest.verifyDeleteTrashMsgTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="GmailCanceledDeleteTest_verifyDeleteTrashMsgTest - 2019.02.27 at 11h 35m 12s.xml">
+      <configuration name="GmailCanceledDeleteTest.verifyDeleteTrashMsgTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="GmailCanceledDeleteTest_verifyDeleteTrashMsgTest - 2019.02.27 at 11h 39m 36s.xml">
+      <configuration name="GmailCanceledDeleteTest.verifyDeleteTrashMsgTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="GmailCanceledDeleteTest_verifyDeleteTrashMsgTest - 2019.02.27 at 11h 50m 50s.xml">
+      <configuration name="GmailCanceledDeleteTest.verifyDeleteTrashMsgTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="GmailCanceledDeleteTest_verifyDeleteTrashMsgTest - 2019.02.27 at 11h 52m 56s.xml">
+      <configuration name="GmailCanceledDeleteTest.verifyDeleteTrashMsgTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="GmailCanceledDeleteTest_verifyDeleteTrashMsgTest - 2019.02.27 at 11h 54m 34s.xml">
+      <configuration name="GmailCanceledDeleteTest.verifyDeleteTrashMsgTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="GmailCanceledDeleteTest_verifyDeleteTrashMsgTest - 2019.02.27 at 12h 03m 41s.xml">
+      <configuration name="GmailCanceledDeleteTest.verifyDeleteTrashMsgTest" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="151551000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.42483222" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.7209632" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.24435028" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.24645892" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection Results" order="9" weight="0.3286119" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32627118" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Bean Validation" order="8" />
+      <window_info anchor="right" id="Database" order="9" weight="0.3297587" />
+      <window_info anchor="right" id="CDI" order="10" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24798928" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.58474576" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.24435028" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection Results" order="9" weight="0.3286119" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32627118" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Bean Validation" order="8" />
+      <window_info anchor="right" id="Database" order="9" weight="0.3297587" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/epam/TA/componet/TextInput.java</url>
+          <line>17</line>
+          <properties class="com.epam.TA.componet.TextInput" method="sendMsgToField">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j2.yaml" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j2.xml" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/TA/Test/BaseTest.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.9.3/jackson-databind-2.9.3.jar!/com/fasterxml/jackson/databind/ObjectMapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="282" lean-forward="true" selection-start-line="282" selection-end-line="282" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/TA/parser/ParserJson.java" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/testng/lib/testng-plugin.jar!/resources/standardSchemas/testng-1.0.dtd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="74" column="4" selection-start-line="74" selection-start-column="4" selection-end-line="74" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/jre/lib/rt.jar!/sun/reflect/NativeMethodAccessorImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/TA/unit/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebDriverProject.iml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/TA/unit/JsonObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.8.1/selenium-api-3.8.1.jar!/org/openqa/selenium/By.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2669">
+          <caret line="182" selection-start-line="182" selection-end-line="182" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/jre/lib/rt.jar!/sun/reflect/DelegatingMethodAccessorImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/reflect/Method.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="497" selection-start-line="497" selection-end-line="497" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/concurrent/FutureTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="254" column="16" selection-start-line="254" selection-start-column="16" selection-end-line="254" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/debug.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/TA/decorator/Element.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/TA/decorator/WrapperFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/TA/decorator/LocatingCustomElementListHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/TA/decorator/CustomFieldDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/TA/componet/Alert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#186#187#0" expanded="true" />
+            <element signature="e#219#220#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/TA/componet/Button.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="29" selection-start-column="29" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/TA/decorator/IElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/TA/pages/GmailBasePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/testNGReporter.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/TA/DriverManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/gmailTestSuit.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="58" selection-start-line="3" selection-start-column="58" selection-end-line="3" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/log4j2.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/surefire-reports/2019-02-26T14-21-01_994-jvmRun1.dump" />
+    <entry file="file://$PROJECT_DIR$/target/surefire-reports/bullet_point.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/surefire-reports/gmail function test suite/GmailTest.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/surefire-reports/gmail function test suite/GmailTest.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/allure-results/1b92e967-ac86-4ad5-ad72-bf7fb7412030-container.json" />
+    <entry file="file://$PROJECT_DIR$/target/allure-results/2c844a11-9d52-4ba7-9206-7a2ad14416ea-result.json" />
+    <entry file="file://$PROJECT_DIR$/target/allure-results/7d74abc7-ab71-4d47-913a-19563b2cbe66-container.json" />
+    <entry file="file://$PROJECT_DIR$/target/allure-results/55c00c4f-77ff-4272-9a2a-e5ce0664ac0b-container.json" />
+    <entry file="file://$PROJECT_DIR$/target/allure-results/2edd8980-5dff-4889-b236-fdbd236e3298-result.json" />
+    <entry file="file://$PROJECT_DIR$/target/allure-results/a6f556b1-e784-482d-b7b2-f978b6055e4a-result.json" />
+    <entry file="file://$PROJECT_DIR$/target/allure-results/c306a960-82bc-4ebe-a7a3-202259f52840-container.json" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/user.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/TA/reporter/TestListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="44" column="67" selection-start-line="44" selection-start-column="67" selection-end-line="44" selection-end-column="67" />
+          <folding>
+            <element signature="e#816#817#0" expanded="true" />
+            <element signature="e#850#851#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/qameta/allure/allure-java-commons/2.0-BETA19/allure-java-commons-2.0-BETA19.jar!/io/qameta/allure/Step.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/allure-results/1c2c9ad7-b5a1-4469-9aab-2ebcba11f9c5-container.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="39" selection-start-line="39" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/TA/businessObj/GmailLoginPageBo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="85" selection-start-line="14" selection-start-column="85" selection-end-line="14" selection-end-column="85" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/TA/componet/TextInput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/TA/componet/CheckBox.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/TA/businessObj/GmailDeleteCanceled.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="43">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/TA/Test/GmailCanceledDeleteTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="58" column="5" lean-forward="true" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2042#2043#0" expanded="true" />
+            <element signature="e#2104#2105#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/TA/businessObj/GmailTrash.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/TA/pages/GmailPageObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/TA/pages/GmailHomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="39" column="24" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
